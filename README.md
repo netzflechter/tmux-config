@@ -23,10 +23,10 @@ The following key bindings do not require you to send the prefix keystroke:
 `Ctrl + K` Go to the top pane  
 `Ctrl + L` Go to the right pane  
 
-`Ctrl + R` Resize pane to the left
-`Ctrl + T` Resize pane to the bottom
-`Ctrl + Z` Resize pane to the top
-`Ctrl + U` Resize pane to the right
+`Ctrl + R` Resize pane to the left  
+`Ctrl + T` Resize pane to the bottom  
+`Ctrl + Z` Resize pane to the top  
+`Ctrl + U` Resize pane to the right  
 
 Ubiquitous Tmux
 ----------------
