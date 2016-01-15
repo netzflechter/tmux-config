@@ -14,19 +14,14 @@ To update the repository, run
 Key Bindings
 -------------
 
-`Ctrl + W` Prefix (you probably won't need it)  
+`Ctrl + q` Prefix (you probably won't need it)  
 
 The following key bindings do not require you to send the prefix keystroke:
 
-`Ctrl + H` Go to the left pane  
-`Ctrl + J` Go to the bottom pane  
-`Ctrl + K` Go to the top pane  
-`Ctrl + L` Go to the right pane  
-
-`Ctrl + R` Resize pane to the left  
-`Ctrl + T` Resize pane to the bottom  
-`Ctrl + Z` Resize pane to the top  
-`Ctrl + U` Resize pane to the right  
+`Ctrl + h` Resize pane to the left  
+`Ctrl + j` Resize pane to the bottom  
+`Ctrl + k` Resize pane to the top  
+`Ctrl + l` Resize pane to the right  
 
 Ubiquitous Tmux
 ----------------
